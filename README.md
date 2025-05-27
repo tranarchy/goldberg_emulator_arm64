@@ -1,4 +1,4 @@
-# Goldberb Emulator for arm64 Linux
+# Goldberg Emulator for arm64 Linux
 
 ## How to use
 
